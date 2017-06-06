@@ -1,0 +1,96 @@
+/*
+BOOTSTRAP & HTML5 BOILER PLATE JS JQ INTEGRATION ALTOGETHER
+Author: MD TARIQUL ISLAM MANON
+Email: t.i.menon007@gmail.com
+
+/* media query for responsiveness
+@media (max-width: 767px) {}
+@media (min-width: 768px) {}
+@media (min-width: 1200px) {}
+*/
+.container-fluid.part_one{
+        background: rgba(214, 196, 196, 0.27);
+    margin-bottom: 25px;
+}
+h5{
+    text-align: center;
+    text-transform: uppercase;
+    border: 1px solid black;
+    width: 8%;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 10px;
+    background: #669a9a;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.Dhaka{
+    background: seagreen;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 5px;
+    border: 2px solid wheat;
+}  
+.Newyork{
+    background: yellow;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 5px;
+    border: 2px solid wheat;
+}
+.London{
+    background: pink;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 5px;
+    border: 2px solid wheat;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 98px 0;
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+}
+
+.container-fluid.part_two{
+        background: rgba(230, 204, 172, 0.52)
+}
+.Paris{
+    background: #E91E63;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 5px;
+    border: 2px solid wheat;
+}
+.Barlin{
+    background: #F44336;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 5px;
+    border: 2px solid wheat;
+}
+.Rome{
+    background: #9C27B0;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 5px;
+    border: 2px solid wheat;
+}
+.Canberra{
+    background: #8BC34A;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 5px;
+    border: 2px solid wheat;
+}
+.sydney{
+    background: #607D8B;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 5px;
+    border: 2px solid wheat;
+}
+    
